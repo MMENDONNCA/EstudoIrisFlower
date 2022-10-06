@@ -1,2 +1,2 @@
 # EstudoIrisFlower
-Estudo de classificadores utilizando a base de dados da Iris
+Comparação de três classificadores utilizando a base de dados da Iris
